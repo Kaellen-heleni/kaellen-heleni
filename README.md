@@ -3,8 +3,10 @@
 - 🌱 Estou estudando back-end com a linguagem Java e conhecendo o mundo de programação.
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
-<div>
-  <a href="https://github.com/Kaellen-heleni">
-  <img height="180em" src="https://github-readme-stats-vercel.app/api?username=kaellen-heleni&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-vercel.app/api/top-langs/?username=kaellen-heleni&layout=compact&langs_count=16&them=neon"/"
-</div>
+
+<a href="https://github.com/kaellen-heleni/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaellen-heleni&show_icons=true&theme=panda&rank_icon=github" />
+</a>
+<a href="https://github.com/kaellen-heleni/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaellen-heleni&layout=compact&langs_count=8&hide_rank=true&theme=panda" />
+</a>
