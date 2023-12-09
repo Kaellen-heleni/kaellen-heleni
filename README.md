@@ -27,6 +27,8 @@
 
 ##
 
+![snake gif](https://github.com/Kaellen-heleni/kaellen-heleni/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
