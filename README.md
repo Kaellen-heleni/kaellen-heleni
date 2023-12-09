@@ -5,7 +5,7 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/kaellen-heleni/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=kaellen-heleni&show_icons=true&include_all_commits=true&theme=panda&rank_icon=github" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=kaellen-heleni&show_icons=true&include_all_commits=true&count_private=true&theme=panda&rank_icon=github" />
 </a>
 <a href="https://github.com/kaellen-heleni/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaellen-heleni&layout=compact&langs_count=8&hide_rank=true&theme=panda" />
