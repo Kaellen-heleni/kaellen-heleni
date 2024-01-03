@@ -1,4 +1,4 @@
-### Olá, eu sou a Kaellen Heleni, estudante de Desenvolvimento Web Full-Stack.
+### Olá, eu sou a Kaellen, estudante de Desenvolvimento Web Full-Stack.
 
 - 💻 Estou estudando back-end com a linguagem Java e conhecendo o mundo da programação.
 - 😄 Pronouns: ela/dela
